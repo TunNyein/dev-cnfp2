@@ -1,1 +1,1 @@
-info.txt.v1
+info.txt.v2.0
